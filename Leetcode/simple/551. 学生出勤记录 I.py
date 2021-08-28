@@ -11,6 +11,7 @@
 如果学生可以获得出勤奖励，返回 true ；否则，返回 false 。
 """
 
+
 class Solution(object):
     def checkRecord(self, s):
         """
